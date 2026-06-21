@@ -1,5 +1,4 @@
-package PracticeProblem;
- class Pen {
+class Pen {
   String colour;
   String type ;
 
