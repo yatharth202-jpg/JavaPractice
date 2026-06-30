@@ -1,3 +1,5 @@
+package PracticeProblem;
+
 class Pen {
   String colour;
   String type ;

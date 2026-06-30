@@ -1,3 +1,5 @@
+package PracticeProblem;
+
 import java.util.*;
 public class PathForMaze {
     public static int countPaths(int i,int j,int n,int m) {
