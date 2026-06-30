@@ -1,4 +1,3 @@
-package PracticeProblem;
 // WAP to imagine a chess board and place maximun queen piece on it so that no pieace cut eachother
 import java.util.*;
 
